@@ -1,0 +1,5 @@
+Listen = Silent
+Dormitory = Dirty Room
+School Master = The Classroom
+A telephone girl = Repeating "Hello"
+Salmonella = so not a Meal
