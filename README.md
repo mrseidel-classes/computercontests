@@ -1,4 +1,5 @@
-computercontests
+Computer Contests
 ================
+Solutions developed by Mr. Seidel and his students for the various computer contests that are held locally.
 
-Computer Contest Possible Solutions and Help
+Some solutions will include explanations over time, but expect raw solutions in some cases.
