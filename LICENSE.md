@@ -1,3 +1,6 @@
+
+The following license applies to all software solutions created for this site.  The Problems themselves (.PDF files), as well as any .ZIP file containing the problem sets and/or solution information fall under the licensing and copyright of [ECOO](http://ecoocs.org)
+
 The MIT License (MIT)
 
 Copyright (c) 2016 Andrew Seidel
